@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Amsterdam;
+    src: url("fonts/Amsterdam.ttf")
+}
+
+body {
+    background-image: url("images/Argonath.jpg");
+    overflow: hidden;
+    width: 100%;
+    font-family: Amsterdam;
+    color: white;
+}
+
+.pierwsze {
+    color: white;
+    font-size: 25px;
+    text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black, 0 -0.07em black;
+}
+
+header {
+    text-align: center;
+    font-size: 100px;
+    color: black;
+    text-shadow: white;
+}
+
+.pierwszy {
+    font-size: 30px;
+    color: red;
+}
+
+.zdjecieAragorn {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 30%;
+    height: 30%;
+}
