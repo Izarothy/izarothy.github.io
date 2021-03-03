@@ -4,33 +4,15 @@
 }
 
 body {
-    background-image: url("images/Argonath.png");
-    width: 100%;
+    background-image: url(/images/elon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: Amsterdam;
 }
 
-.pierwsze {
-    color: black;
-    font-size: 25px;
-}
-
-header {
-    position: relative;
-    left: 600px;
+#xd {
     font-size: 100px;
-    color: black;
-}
-
-.pierwszy {
-    font-size: 30px;
-    color: red;
-}
-
-.zdjecieAragorn {
-    border-radius: 8px;
-    position: relative;
-    top: 100px;
-    float: right;
-    width: 25%;
-    height: 25%;
+    text-align: center;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
